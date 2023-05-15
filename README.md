@@ -23,10 +23,10 @@
 <img src="https://github.com/EngajamentoFlow/quepasa/blob/main/Contribui%C3%A7%C3%A3o.png" alt="Quepasa-logo" width="200" />
 </p>
 
-**PIX CNPJ**
+**PIX PHONE**
 
 ```
-45959142000119	
+11999932966	
 ```
 
 ----------------------------------------------------------------------------
